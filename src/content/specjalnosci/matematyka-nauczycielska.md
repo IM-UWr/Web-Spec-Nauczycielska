@@ -49,7 +49,7 @@ dlaczego:
   tytul: Nagradzane prace
   tytul_en: Award-winning theses
   opis: Praca absolwentki specjalności o parkietażach, przygotowana pod kierunkiem prof. Jacka Świątkowskiego, zdobyła wyróżnienie w konkursie mBanku „Krok w Przyszłość” (2019).
-  opis_en: A thesis on tilings by a graduate of the specialisation, supervised by Prof. Jacek Świątkowski, received a distinction in mBank's “Krok w Przyszłość” competition (2019).
+  opis_en: A thesis on tilings by a graduate of the specialisation, supervised by Prof. Jacek Świątkowski, received a distinction in mBank's “Krok w Przyszłość” (Step into the Future) competition (2019).
 - ikona: zewnetrzny
   tytul: Blisko szkół
   tytul_en: Close to schools
