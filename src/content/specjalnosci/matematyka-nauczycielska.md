@@ -11,6 +11,8 @@ poziom: studia I i II stopnia
 poziom_en: bachelor's and master's studies
 opis: Matematyka połączona z przygotowaniem psychologicznym, pedagogicznym i dydaktycznym oraz praktykami w szkołach. Po studiach II stopnia masz pełne kwalifikacje do nauczania matematyki w szkołach.
 opis_en: Mathematics combined with psychological, pedagogical and didactic training and school placements. After the master's degree you are fully qualified to teach mathematics in schools.
+haslo: "Naucz innych matematyki"
+haslo_en: "Teach others mathematics"
 zaklad: dydaktyka
 opiekunowie:
 - imie_nazwisko: Elżbieta Kalinowska
