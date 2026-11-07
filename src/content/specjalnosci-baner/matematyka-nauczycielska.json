@@ -1,0 +1,62 @@
+{
+  "kierunek": "matematyka",
+  "poziom": "studia I i II stopnia",
+  "poziom_en": "bachelor's and master's studies",
+  "opis": "Matematyka połączona z przygotowaniem psychologicznym, pedagogicznym i dydaktycznym oraz praktykami w szkołach. Po studiach II stopnia masz pełne kwalifikacje do nauczania matematyki w szkołach.",
+  "opis_en": "Mathematics combined with psychological, pedagogical and didactic training and school placements. After the master's degree you are fully qualified to teach mathematics in schools.",
+  "haslo": "Naucz innych matematyki",
+  "haslo_en": "Teach others mathematics",
+  "zaklad": "dydaktyka",
+  "opiekunowie": [
+    {
+      "imie_nazwisko": "Elżbieta Kalinowska",
+      "rola": "Opiekunka specjalności, indywidualne ścieżki kształcenia",
+      "rola_en": "Coordinator, individual study paths"
+    },
+    {
+      "imie_nazwisko": "Jacek Świątkowski",
+      "rola": "Opiekun specjalności",
+      "rola_en": "Coordinator"
+    }
+  ],
+  "wygaszana": false,
+  "kolejnosc": 5,
+  "kafelek_dla_kogo": "Dla przyszłych nauczycielek i nauczycieli matematyki.",
+  "kafelek_dla_kogo_en": "For future mathematics teachers.",
+  "kafelek_kariera": "Praca nauczyciela matematyki w szkołach wszystkich typów (pełne kwalifikacje po studiach II stopnia).",
+  "kafelek_kariera_en": "Teaching mathematics in all types of schools (full qualifications after the master's degree).",
+  "zrodla": [
+    "https://www.math.uni.wroc.pl/matematyka",
+    "https://www.math.uni.wroc.pl/specjalnosci-0",
+    "https://www.math.uni.wroc.pl/pracownia-dydaktyki-matematyki",
+    "https://www.math.uni.wroc.pl/egzamin-magisterski",
+    "https://www.math.uni.wroc.pl/oferty-pracy",
+    "https://www.math.uni.wroc.pl/news/sukces-w-konkursie-mbanku",
+    "https://www.math.uni.wroc.pl/news/dolnoslaski-kongres-nauczycieli-matematyki",
+    "https://www.math.uni.wroc.pl/news/ii-dolnoslaski-kongres-nauczycieli-matematyki",
+    "https://www.math.uni.wroc.pl/news/mgr-malgorzata-mikolajczyk-zostala-laureatem-nagrody-glownej-polskiego-towarzystwa",
+    "https://www.math.uni.wroc.pl/news/malgorzata-mikolajczyk-otrzymala-nagrode-prezydenta-wroclawia-za-popularyzacje-wiedzy-i-kultury",
+    "/pliki/studia/spec-matematyka-nauczycielska.pdf",
+    "/pliki/studia/przewodnik-mt-lic.pdf",
+    "/pliki/studia/przewodnik-mt-mgr.pdf",
+    "/pliki/studia/zmiany2026.pdf",
+    "/pliki/studia/regulamin-praktyk-nauczycielskich-2026.pdf",
+    "/pliki/studia/mgr22-na-zakres.pdf",
+    "/pliki/studia/prace_lic3.pdf",
+    "/pliki/studia/tem6.pdf",
+    "https://www.math.uni.wroc.pl/sites/default/files/tem7.pdf",
+    "https://bip.uni.wroc.pl/download/attachment/52226/uchwala-nr-48_2026-senatu-uwr-z-2026-05-27-w-sprawie-programu-studiow-dla-kierunku-matematyka-stacjonarne-i-i-ii-stopnia.pdf",
+    "https://bip.uni.wroc.pl/download/attachment/33781/tekst-ujednolicony-13-2021-ksztalcenie-nauczycieli.pdf",
+    "Katalog przedmiotów USOS UWr (kody 28-MT-S-u…, 28-MT-S-tArTeor, 28-MT-S-tGeoEl1a, 28-MT-S-tKGTGal, 28-MT-S-tPGeomGNE, 28-MT-S-LLatex, 28-MT-S-LPodStatPr, 28-MT-S-HKultJez)"
+  ],
+  "do_uzupelnienia": [
+    "Opiekunowie specjalności — potwierdzić (dr Elżbieta Kalinowska i prof. dr hab. Jacek Świątkowski wg starszej strony /specjalnosci-0).",
+    "Czy w programie od 2026/27 można realizować kształcenie nauczycielskie bez specjalności (ścieżka 2 z zasad programu z 2022 r.) i na jakim formularzu (D czy C1) — potwierdzić. Uchwała 48/2026 (MT5) mówi o deklaracji „przed rozpoczęciem 2. semestru”, przewodnik — o formularzu C1 do 31 grudnia.",
+    "Formularz C1 — brak linku na starej stronie kierunku.",
+    "Zasady realizacji kształcenia nauczycielskiego dla programu od 2026/27 (odpowiednik PDF dla programu z 2022 r.), jeśli powstaną.",
+    "Zakres egzaminu magisterskiego dla programu od 2026/27 (dostępny zakres dotyczy programu z 2022 r.).",
+    "Aktualne przykładowe tematy prac (dostępne listy — 2017 r. dla prac licencjackich, 2022 i 2024 r. dla magisterskich).",
+    "Brak opisów w katalogu USOS dla przedmiotów Warsztaty zadaniowe dla nauczycieli, Warsztaty – popularyzacja matematyki I/II, Warsztaty pomocy dydaktycznych, Konwersatorium dydaktyczne – Mathematical Laboratory in the Classroom (opisy warsztatów wzięto z uchwały 48/2026).",
+    "Seminarium badawcze lub koło naukowe związane ze specjalnością (na starej stronie jest tylko wzmianka z 2010 r. o SKN Matematyków Specjalności Nauczycielskiej) — czy istnieje."
+  ]
+}
