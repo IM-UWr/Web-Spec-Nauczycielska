@@ -171,7 +171,7 @@ tresc_en: |
 
   ### Do I have to choose the extended versions of compulsory courses?
 
-  No. According to the specialisation coordinators' recommendations (bachelor's guide, Table 7), choosing the standard or extended version of compulsory courses has no significant bearing on this specialisation, and Topology and Measure and integration are not part of its plan.
+  **No.** According to the specialisation coordinators' recommendations (bachelor's guide, Table 7), choosing the standard or extended version of compulsory courses has no significant bearing on this specialisation, and Topology and Measure and integration are not part of its plan.
 
   ### Can I start teacher training later than in the 2nd semester?
 
@@ -179,7 +179,7 @@ tresc_en: |
 
   ### Does the bachelor's degree qualify me to teach?
 
-  No. After the bachelor's degree you have the subject background for teaching mathematics in primary school, but teaching qualifications are granted only to holders of a master's degree — full qualifications come with completing this specialisation in the master's programme.
+  **No.** After the bachelor's degree you have the subject background for teaching mathematics in primary school, but teaching qualifications are granted only to holders of a master's degree — full qualifications come with completing this specialisation in the master's programme.
 
   ### Can I change or leave the specialisation?
 
